@@ -1,0 +1,5 @@
+{
+  "name": "Aegis AI - Network IDS",
+  "description": "A high-performance Network Intrusion Detection System (IDS) dashboard powered by Gemini AI for real-time traffic analysis, threat classification, and incident response recommendations.",
+  "requestFramePermissions": []
+}
